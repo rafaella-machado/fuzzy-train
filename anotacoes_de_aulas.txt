@@ -12,3 +12,4 @@ cria e descreve um ponto na história
 
 histórico de commits do projeto
 - git log
+-------
